@@ -17,4 +17,4 @@
 
 ![image](https://user-images.githubusercontent.com/119486614/205432191-096dccc4-a081-4332-85eb-a6d7d952b5ba.png)
 
-Окно Inspector объекта playerShip
+Рисунок 12.4 Окно Inspector объекта playerShip
