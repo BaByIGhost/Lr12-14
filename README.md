@@ -1,6 +1,9 @@
 Выполнил: Ковригин К.А.
+
 Группа: ЭВТ-71
+
 Игровой движок: Unity 2021.3.10f1
+
 Название работы: Разработка Space Shooter
 
 ![image](https://user-images.githubusercontent.com/119486614/205432051-ff168e8a-09ef-4f72-9585-b78152e9c022.png)
